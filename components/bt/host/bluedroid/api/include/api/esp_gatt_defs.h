@@ -336,9 +336,8 @@ typedef struct
     uint8_t auto_rsp;
 } esp_attr_control_t;
 
-
 /**
- * @brief attribute type added to the gatt server database
+ * @brief attribute type added to the gatt server database添加到gatt服务器数据库的属性类型
  */
 typedef struct
 {
